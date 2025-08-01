@@ -1,4 +1,4 @@
-A project developed by me and my classmate for the **Object-Oriented Programming** course using **Python 3** and **Pygame**.
+A project developed by me and my classmate for the **Object-Oriented Programming** subject on College using **Python 3** and **Pygame**.
 
 ---
 
@@ -12,8 +12,8 @@ The goal of the project was to implement:
 - ✅ **Sound effects** triggered by one or more actions  
 - ✅ **OOP pillars**: inheritance, polymorphism, operator overloading, and exception handling  
 
-We had **1 month** to develop it from scratch, and we are happy with the first version!  
-There is still a lot to improve, but it's a solid start.
+We had **1 month** to develop it from scratch, and we are happy with project!  
+There is still a lot to improve, but it's a solid start as the first project for me using Python and Pygame.
 
 ---
 
@@ -34,7 +34,7 @@ There is still a lot to improve, but it's a solid start.
 
 ### On **Windows** (Git Bash)
 1. Open the folder containing the game.  
-2. Right-click → **Open Git Bash Here**  
+2. Right click to **Open Git Bash Here**  
 3. Run:  
    ```bash
    make
