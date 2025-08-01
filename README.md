@@ -41,6 +41,8 @@ There is still a lot to improve, but it's a solid start as our **first Python an
    ```bash
    make
 
+---
+
 ## 🎨 Assets Credits
 
 All character sprites and visual assets used in this game were taken from **Mighty Fighter 2**, available at:  
