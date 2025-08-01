@@ -1,4 +1,6 @@
-A project developed by me and my classmate for the **Object-Oriented Programming** subject on College using **Python 3** and **Pygame**.
+# OOP Game - Street Fighter Style
+
+A project developed by [@dedez1nn](https://github.com/dedez1nn) and [@GabryelDEVNewton](https://github.com/GabryelDEVNewton) for the **Object-Oriented Programming** subject in college, using **Python 3** and **Pygame**.
 
 ---
 
@@ -12,8 +14,8 @@ The goal of the project was to implement:
 - ✅ **Sound effects** triggered by one or more actions  
 - ✅ **OOP pillars**: inheritance, polymorphism, operator overloading, and exception handling  
 
-We had **1 month** to develop it from scratch, and we are happy with project!  
-There is still a lot to improve, but it's a solid start as the first project for me using Python and Pygame.
+We had **1 month** to develop it from scratch, and we are happy with the project!  
+There is still a lot to improve, but it's a solid start as our **first Python and Pygame project**.
 
 ---
 
@@ -34,8 +36,21 @@ There is still a lot to improve, but it's a solid start as the first project for
 
 ### On **Windows** (Git Bash)
 1. Open the folder containing the game.  
-2. Right click to **Open Git Bash Here**  
+2. Right click → **Open Git Bash Here**  
 3. Run:  
    ```bash
    make
 
+## 🎨 Assets Credits
+
+All character sprites and visual assets used in this game were taken from **Mighty Fighter 2**, available at:  
+🔗 [The Spriters Resource - Mighty Fighter 2](https://www.spriters-resource.com/mobile/mightyfighter2/)
+
+These sprites are **property of their respective owners** and were used **only for educational purposes**, not for commercial distribution.
+
+---
+
+## 👨‍💻 Authors
+
+- [@dedez1nn](https://github.com/dedez1nn)  
+- [@GabryelDEVNewton](https://github.com/GabryelDEVNewton)
