@@ -19,7 +19,7 @@ There is still a lot to improve, but it's a solid start.
 
 ## 🖼️ Screenshot
 
-![Game Screenshot]
+![Game Screenshot](assets/print.jpg)
 
 ---
 
