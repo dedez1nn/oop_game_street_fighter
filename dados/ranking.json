@@ -1,17 +1,7 @@
 [
     {
         "nome": "dede",
-        "pontuacao": 1200,
-        "sequencia": 3
-    },
-    {
-        "nome": "fff",
-        "pontuacao": 1200,
-        "sequencia": 3
-    },
-    {
-        "nome": "ffff",
-        "pontuacao": 600,
-        "sequencia": 1
+        "pontuacao": 9999,
+        "sequencia": 0
     }
 ]
