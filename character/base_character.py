@@ -99,7 +99,7 @@ class PersonagemBase:
                         alvo.estados.atingido = True
                         soco.play()
                         if self.especial <= 90:
-                            self.especial += 100
+                            self.especial += 10
                         else:
                             self.especial = 100
         elif op == 1 and self.especial >= 100:
