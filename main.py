@@ -1,16 +1,16 @@
 import pygame
 import random
 import sys
-from personagem.jogador import Jogador
-from personagem.inimigo import Inimigo
-from telas.tela_jogar import TelaJogar
-from telas.tela_select import TelaSelect
-from telas.tela_config import TelaConfig
-from telas.tela_ranking import TelaRanking
-from progresso.manager_ranking import ManagerRanking
-from progresso.jogador_ranking import JogadorRanking
-from telas.tela_inicial import TelaInicial
-from telas.menu import Menu
+from character.player import Jogador
+from character.enemy import Inimigo
+from screen.in_game_screen import TelaJogar
+from screen.select_screen import TelaSelect
+from screen.config_screen import TelaConfig
+from screen.ranking_screen import TelaRanking
+from progress.manager_ranking import ManagerRanking
+from progress.jogador_ranking import JogadorRanking
+from screen.initial_screen import TelaInicial
+from screen.menu import Menu
 from adicionais.elem_independente import ElemIndependente
 
 def main():
